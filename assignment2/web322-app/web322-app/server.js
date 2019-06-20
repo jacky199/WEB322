@@ -4,7 +4,7 @@
 * of this assignment has been copied manually or electronically from any other source
 * (including 3rd party web sites) or distributed to other students.
 *
-* Name: ___Jack Zhao_____ Student ID: __123456789____ Date: ___May,21,2019_____________
+* Name: ___Jack_____ Student ID: __123456789____ Date: ___May,21,2019_____________
 *
 * Online (Heroku) Link: 
 *
